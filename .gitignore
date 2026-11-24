@@ -1,0 +1,12 @@
+# віртуальне оточення
+.venv/
+
+# службові файли Python
+__pycache__/
+
+# секрети
+.env
+
+# налаштування Streamlit із секретами
+.streamlit/secrets.toml
+.pytest_cache/
